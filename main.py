@@ -6,7 +6,7 @@ restaurantes = [{'nome': 'Dominus', 'categoria': 'Pizzaria', 'ativo':False},
                 {'nome': 'Big Burguer', 'categoria': 'Hamburgueria', 'ativo':False}]
  
 def exibir_nome_do_programa():
-    print('SABOR EXPRESS')
+    print('TASTE EXPRESS')
     
     # Menu principal
 def exibir_opcoes():
