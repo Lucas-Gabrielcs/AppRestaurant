@@ -1,1 +1,1 @@
-<h3>Projeto de catalogo de restaurantes e suas categorias. Podendo cadastrar restaurantes, lista-los e alterar o status do comercio para informar se esta aberto ou fechado. O projeto conta com python para manipulação de strings, funções, dicionários e loops.</h3.
+
